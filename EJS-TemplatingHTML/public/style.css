@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+}
+
+.postContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.postSection{
+    border: 1px solid black;
+    width: 600px;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.postSection img{
+    display: block;
+    width: 100%;
+}
